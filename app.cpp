@@ -1,0 +1,2 @@
+_INTEGRAL_MAX_BITS
+
